@@ -1,0 +1,20 @@
+body {
+    background-color: cornflowerblue;
+margin: 50px;
+border: 20px;
+border-color: black;
+border-style: dotted;
+padding: 20px;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.experiencia {
+    text-align: right;
+}
+
+#endereco {
+    text-align: center;
+}
